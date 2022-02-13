@@ -1,0 +1,3 @@
+#include "MS\MS_Caches\functions.hpp"
+
+respawnOnStart = 0;
